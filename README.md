@@ -1,3 +1,3 @@
 # Hexbin-Help
 
-Lines 10 and 11 contain the hexbin scripts. I don't know how to have the numpy random sample normal use an array of 126 values to continue running to the whole code line to create the hexbin plot. If you could also look at line 8 where I'm calculating VPD that'd be great too, since I'm unsure why it's giving me a series class 'float' error. 
+Update as of 8/28/23: I included my sap flow csv files in my meteorological notebook for the hexbin plots. But for some reason, despite full data frames for the csv and the filtered data, the filtered dataset in ln 11 is coming up blank. Therefore the hexbin plot throws an error about an empty array. I'm not sure where or how it's returning an empty array so any guidance and explanation of my errors would be superb.  
